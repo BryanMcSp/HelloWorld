@@ -17,3 +17,13 @@ Here's what a list looks like:
 3. Bananas
 4. Music
 
+Here's a table:
+
+| This | is | a | table | header |
+| --- | --- | --- | --- | ---|
+| this | is | the | table's | content |
+| More | content | is | shown | here |
+
+Emojis:
+
+:🐮
