@@ -25,5 +25,4 @@ Here's a table:
 | More | content | is | shown | here |
 
 Emojis:
-
-:🐮
+🐮 🐕
